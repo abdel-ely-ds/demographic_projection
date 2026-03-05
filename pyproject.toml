@@ -1,0 +1,15 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "demoproj"
+version = "0.2.0"
+requires-python = ">=3.10"
+dependencies = ["numpy>=1.24", "matplotlib>=3.7"]
+
+[project.scripts]
+demoproj = "demoproj.cli:main"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/demoproj"]
