@@ -1,4 +1,8 @@
-![demoproj](assets/logo.png)
+<div align="center">
+  <picture>
+    <img src="assets/logo.png" alt="demoproj">
+  </picture>
+</div>
 
 <p align="center">
   <strong>Cohort-component demographic projection with real UN data</strong>
