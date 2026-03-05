@@ -1,8 +1,4 @@
-<div align="center">
-  <picture>
-    <img src="assets/logo.png" alt="demoproj">
-  </picture>
-</div>
+<img src="assets/logo.png" alt="demoproj" width="830">
 
 <p align="center">
   <strong>Cohort-component demographic projection with real UN data</strong>
